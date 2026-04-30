@@ -1,0 +1,6 @@
+﻿xiaomi:
+  "8210974658": V1:9d2wTZnSKA8D7PcQtwbCZPy5Oevdow04P5S6JHqkanS/WsiB8aMlSNXz8RQbI4fxbBSwTx+yoBFfqtCPlR1gFpRaNbsy7XA4qKlR+n+0UeVeVuhZYGM1IPg8grgL+4j8cf0PeU6mIBMz6V2p3t4LSs7DnDR/uRVzPIqDeUzJPM4iyQqhKPMb68TbDMznjjJLuNfKtuv0uCBpeHwxT3IhLuP26aeaMuS8nNxk7j9oOA45/L1SmSqAHfBdNszXDsBzmoK1VnYPczqXHOEbESj+IIpfQeJjOJC1X4RT0jRT4V0=
+
+streams:
+  xiaomi_cam_hd: xiaomi://8210974658:cn@192.168.1.106?did=450026050&model=chuangmi.camera.029a02&subtype=sd
+  xiaomi_cam_auto: xiaomi://8210974658:cn@192.168.1.106?did=450026050&model=chuangmi.camera.029a02&subtype=auto

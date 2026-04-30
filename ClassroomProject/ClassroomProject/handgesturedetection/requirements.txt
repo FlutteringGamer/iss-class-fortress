@@ -1,0 +1,6 @@
+opencv-python
+numpy
+mediapipe
+flask
+flask-cors
+python-miio
